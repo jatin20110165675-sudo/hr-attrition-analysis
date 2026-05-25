@@ -5,7 +5,7 @@ Analysed the IBM HR dataset of 1,470 employees using MySQL
 and Excel to identify why employees leave the company.
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard_Preview.png)
+<img src="Dashboard Preview.png" width="1000">
 
 ## Tools Used
 - **MySQL** — 5 SQL queries for attrition analysis
